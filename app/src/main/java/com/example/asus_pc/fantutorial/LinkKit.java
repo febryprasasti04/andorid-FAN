@@ -10,7 +10,7 @@ import java.net.URL;
 import java.util.Iterator;
 import java.util.Map;
 
-
+// create Linlkit class for kit
 public class LinkKit {
 
     public static String GET(String url) {
